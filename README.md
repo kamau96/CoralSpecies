@@ -10,6 +10,10 @@ Submitted by: **Benson Wainaina**
 **Image showing the three clusters**
 
 ![](Images/Clusters.png)
+**Improved model**
+![](Images/Improvement.PNG)
 
+Improved the model but changing perplxity value to ensure better clustering with a value of 45 being better than 30.
 Time spent: **8** hours spent in total
+
 
